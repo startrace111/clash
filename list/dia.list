@@ -1,3 +1,3 @@
-DOMAIN,http://api.segment.io
-DOMAIN-SUFFIX,http://launchdarkly.com
-DOMAIN-SUFFIX,http://diabrowser.engineering
+DOMAIN,api.segment.io
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,diabrowser.engineering
