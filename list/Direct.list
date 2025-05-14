@@ -587,3 +587,15 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+#meta
+DOMAIN-SUFFIX,metaso.cn
+
+#linux.do
+DOMAIN-SUFFIX,linux.do
+
+#vocalno
+DOMAIN-SUFFIX,volcengine.com
+
+#deepseek
+DOMAIN-SUFFIX,deepseek.com
