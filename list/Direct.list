@@ -596,3 +596,6 @@ DOMAIN-SUFFIX,volcengine.com
 
 #deepseek
 DOMAIN-SUFFIX,deepseek.com
+
+#zju
+DOMAIN-SUFFIX,zju.edu.cn
