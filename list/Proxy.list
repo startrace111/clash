@@ -142,3 +142,9 @@ IP-CIDR,142.250.0.0/16,no-resolve
 
 #linux.do
 DOMAIN-SUFFIX,linux.do
+
+#llg
+DOMAIN-SUFFIX,saojc.xyz
+
+#kuaichongoyun
+DOMAIN-SUFFIX,0be.xyz
